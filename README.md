@@ -56,8 +56,8 @@ I'm Michael, a passionate computer engineer specializing in C++, embedded Linux,
 #### Learning & Interests
 ![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Keyboards](https://img.shields.io/badge/Keyboards-Monkeytype-FFBE00?style=flat&logo=monkeytype&logoColor=black)
-![3D Printing](https://img.shields.io/badge/3D_Printing-Hobbyist-ff6f00?style=flat&logo=printables&logoColor=white)
+![Keyboards](https://img.shields.io/badge/Keyboards-FFBE00?style=flat&logo=monkeytype&logoColor=black)
+![3D Printing](https://img.shields.io/badge/3D_Printing-ff6f00?style=flat&logo=printables&logoColor=white)
 
 <!--
 #### Publications
