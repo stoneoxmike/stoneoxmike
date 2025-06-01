@@ -30,25 +30,38 @@ I'm Michael, a passionate computer engineer specializing in C++, embedded Linux,
 
 ---
 #### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
 #### Tools & Environment
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-packet%20analyzer-1679A7?style=flat&logoColor=white)
 
-#### Embedded / Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+#### Systems & Embedded
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-Espressif-E7352C?style=flat&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
+
 
 <!--
 ![MQTT](https://img.shields.io/badge/MQTT-005C84?style=flat&logo=eclipse-mosquitto&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus-000000?style=flat&logoColor=white)
 -->
 
-#### Learning / Interests
+#### Learning & Interests
 ![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Keyboards](https://img.shields.io/badge/Keyboards-Monkeytype-FFBE00?style=flat&logo=monkeytype&logoColor=black)
+![3D Printing](https://img.shields.io/badge/3D_Printing-Hobbyist-ff6f00?style=flat&logo=printables&logoColor=white)
+
+<!--
+#### Publications
+-->
 
 <!--
 ---
