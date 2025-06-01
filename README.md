@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I'm Michael, a passionate computer engineer specializing in C++, embedded Linux, and industrial communications.
 
 - 🔭   I’m currently working on: a real-time sports analytics engine using ML  
-- 💡   I’m currently learning: Rust, distributed systems, and ML pipelines  
+- 💡   I’m actively researching: Rust, distributed systems, and ML pipelines  
 - 📦   Career experience in: low-level software for industrial devices  
 - 📚   Always learning something new
 
@@ -33,20 +33,23 @@ I'm Michael, a passionate computer engineer specializing in C++, embedded Linux,
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+<!--![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)-->
 
 #### Tools & Environment
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<!--
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&labelColor=black)-->
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+<!--![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio&logoColor=white)-->
+
 
 #### Systems & Embedded
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
-
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
 <!--
 ![MQTT](https://img.shields.io/badge/MQTT-005C84?style=flat&logo=eclipse-mosquitto&logoColor=white)
