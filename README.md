@@ -1,3 +1,10 @@
+<a href="https://github.com/stoneoxmike/stoneoxmike">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stoneoxmike/stoneoxmike/main/dark_mode.svg">
+    <img alt="Michael Geyer's GitHub Profile README" src="https://raw.githubusercontent.com/stoneoxmike/stoneoxmike/main/light_mode.svg">
+  </picture>
+</a>
+
 <!--
 
 ## Hi there 👋
@@ -17,6 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
 ### Hello!
 
 I'm Michael, a passionate computer engineer specializing in C++, embedded Linux, and industrial communications.
@@ -35,15 +44,20 @@ I'm Michael, a passionate computer engineer specializing in C++, embedded Linux,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <!--![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)-->
 
-#### Tools & Environment
 <!--
+#### Tools & Environment
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&labelColor=black)-->
+<!--
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
+-->
+
 <!--![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio&logoColor=white)-->
 
+<!--
 
 #### Systems & Embedded
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white)
@@ -56,11 +70,15 @@ I'm Michael, a passionate computer engineer specializing in C++, embedded Linux,
 ![Modbus](https://img.shields.io/badge/Modbus-000000?style=flat&logoColor=white)
 -->
 
+<!--
+
 #### Learning & Interests
 ![AI](https://img.shields.io/badge/AI-000000?style=flat&logo=openai&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Keyboards](https://img.shields.io/badge/Keyboards-FFBE00?style=flat&logo=monkeytype&logoColor=black)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-ff6f00?style=flat&logo=printables&logoColor=white)
+
+-->
 
 <!--
 #### Publications
